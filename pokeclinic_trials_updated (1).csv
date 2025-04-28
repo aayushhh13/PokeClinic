@@ -1,0 +1,101 @@
+Trial_ID,Condition,Phase,Study_Design,Enrollment,Location,Intervention,Outcome_Measure,Trial_Description,Number_of_Sites,Randomized_Patients_per_Site,Recruitment_Time_Months
+1,COVID-19,1,Non-Randomized,280,UK,Behavioral Therapy,Tumor Size,Study investigating Multiple Sclerosis treatment using Drug: Chemotherapy.,56,49,35
+2,Prostate Cancer,2,Randomized,60,Germany,Vaccine: mRNA,Infection Rate,Study investigating Migraine treatment using Radiation Therapy.,97,45,26
+3,Diabetes Mellitus,3,Randomized,763,Italy,Surgery: Bypass,Infection Rate,Study investigating Parkinson's Disease treatment using Radiation Therapy.,19,33,17
+4,HIV/AIDS,1,Randomized,744,Canada,Device: Pacemaker,Pain Reduction,Study investigating Arthritis treatment using Vaccine: mRNA.,76,19,34
+5,Breast Cancer,1,Randomized,419,Germany,Device: Pacemaker,Survival Rate,Study investigating Epilepsy treatment using Drug: Anti-inflammatory.,65,49,34
+6,Lung Cancer,3,Non-Randomized,579,Germany,Surgery: Bypass,Tumor Size,Study investigating Multiple Sclerosis treatment using Drug: Anti-inflammatory.,25,5,26
+7,Epilepsy,2,Randomized,751,Germany,Drug: Metformin,Infection Rate,Study investigating Alzheimer's Disease treatment using Drug: Chemotherapy.,87,29,14
+8,Obesity,1,Non-Randomized,314,Australia,Device: Pacemaker,Mood Score,Study investigating Stroke treatment using Device: Pacemaker.,91,11,4
+9,Asthma,3,Non-Randomized,748,Germany,Radiation Therapy,Mood Score,Study investigating Multiple Sclerosis treatment using Vaccine: mRNA.,79,13,5
+10,Heart Disease,2,Non-Randomized,306,Italy,Vaccine: mRNA,Survival Rate,Study investigating Lung Cancer treatment using Vaccine: mRNA.,79,28,19
+11,Lung Cancer,2,Non-Randomized,304,Germany,Vaccine: mRNA,Cognitive Function,Study investigating Breast Cancer treatment using Vaccine: mRNA.,92,5,4
+12,Leukemia,2,Non-Randomized,176,France,Behavioral Therapy,Infection Rate,Study investigating Multiple Sclerosis treatment using Gene Therapy.,28,48,4
+13,HIV/AIDS,3,Non-Randomized,949,Brazil,Surgery: Bypass,Survival Rate,Study investigating Obesity treatment using Behavioral Therapy.,7,12,30
+14,Migraine,2,Randomized,803,USA,Drug: Chemotherapy,Mood Score,Study investigating Heart Disease treatment using Surgery: Bypass.,26,28,25
+15,Epilepsy,1,Non-Randomized,420,Brazil,Dietary Supplement,Viral Load,Study investigating HIV/AIDS treatment using Gene Therapy.,57,15,34
+16,Diabetes Mellitus,3,Randomized,728,Italy,Drug: Anti-inflammatory,Survival Rate,Study investigating COVID-19 treatment using Drug: Anti-inflammatory.,6,21,35
+17,Kidney Disease,1,Non-Randomized,33,France,Gene Therapy,Mood Score,Study investigating Migraine treatment using Drug: Chemotherapy.,92,12,3
+18,Alzheimer's Disease,3,Randomized,186,Japan,Behavioral Therapy,Viral Load,Study investigating Migraine treatment using Drug: Metformin.,34,39,21
+19,Epilepsy,2,Non-Randomized,49,Germany,Device: Pacemaker,Pain Reduction,Study investigating Obesity treatment using Drug: Metformin.,42,39,4
+20,Obesity,3,Randomized,117,Australia,Drug: Chemotherapy,Viral Load,Study investigating Arthritis treatment using Behavioral Therapy.,6,37,28
+21,Leukemia,3,Randomized,301,Italy,Radiation Therapy,Lung Capacity,Study investigating Asthma treatment using Gene Therapy.,68,9,34
+22,Asthma,3,Non-Randomized,438,Japan,Dietary Supplement,Viral Load,Study investigating Parkinson's Disease treatment using Drug: Chemotherapy.,64,46,8
+23,Obesity,1,Randomized,376,USA,Radiation Therapy,Viral Load,Study investigating Obesity treatment using Radiation Therapy.,25,43,34
+24,Obesity,1,Randomized,754,USA,Vaccine: mRNA,Tumor Size,Study investigating Lung Cancer treatment using Device: Pacemaker.,37,45,6
+25,Depression,3,Randomized,315,Australia,Vaccine: mRNA,Viral Load,Study investigating Arthritis treatment using Radiation Therapy.,80,32,13
+26,Prostate Cancer,2,Randomized,833,Australia,Surgery: Bypass,Infection Rate,Study investigating COVID-19 treatment using Drug: Chemotherapy.,62,11,19
+27,Kidney Disease,2,Non-Randomized,450,Australia,Drug: Metformin,Tumor Size,Study investigating Lung Cancer treatment using Surgery: Bypass.,26,13,26
+28,Breast Cancer,1,Randomized,226,UK,Gene Therapy,Weight Loss,Study investigating Arthritis treatment using Surgery: Bypass.,93,12,7
+29,Heart Disease,2,Non-Randomized,285,Germany,Dietary Supplement,Viral Load,Study investigating COVID-19 treatment using Drug: Metformin.,53,16,36
+30,Multiple Sclerosis,1,Randomized,978,UK,Behavioral Therapy,Lung Capacity,Study investigating Leukemia treatment using Dietary Supplement.,95,38,8
+31,Asthma,2,Randomized,198,Canada,Drug: Metformin,Lung Capacity,Study investigating HIV/AIDS treatment using Dietary Supplement.,63,37,24
+32,Alzheimer's Disease,2,Non-Randomized,188,UK,Drug: Anti-inflammatory,Infection Rate,Study investigating Lung Cancer treatment using Radiation Therapy.,46,27,13
+33,Multiple Sclerosis,1,Non-Randomized,88,USA,Radiation Therapy,Weight Loss,Study investigating Migraine treatment using Gene Therapy.,96,28,18
+34,Heart Disease,1,Randomized,901,India,Drug: Chemotherapy,Cognitive Function,Study investigating Depression treatment using Vaccine: mRNA.,64,41,35
+35,Hypertension,1,Randomized,622,Brazil,Drug: Metformin,Cognitive Function,Study investigating Depression treatment using Surgery: Bypass.,84,39,11
+36,Prostate Cancer,3,Non-Randomized,987,France,Vaccine: mRNA,Survival Rate,Study investigating Obesity treatment using Drug: Anti-inflammatory.,19,48,8
+37,Hypertension,1,Non-Randomized,498,Japan,Drug: Chemotherapy,Blood Sugar,Study investigating Parkinson's Disease treatment using Radiation Therapy.,66,44,18
+38,Prostate Cancer,1,Randomized,580,UK,Gene Therapy,Pain Reduction,Study investigating Arthritis treatment using Device: Pacemaker.,66,26,31
+39,Depression,1,Non-Randomized,321,India,Dietary Supplement,Viral Load,Study investigating Alzheimer's Disease treatment using Radiation Therapy.,51,31,5
+40,Migraine,1,Non-Randomized,984,Germany,Behavioral Therapy,Pain Reduction,Study investigating COVID-19 treatment using Drug: Chemotherapy.,66,39,22
+41,Multiple Sclerosis,1,Non-Randomized,318,Brazil,Vaccine: mRNA,Survival Rate,Study investigating Asthma treatment using Drug: Anti-inflammatory.,55,5,21
+42,Migraine,2,Non-Randomized,957,USA,Drug: Chemotherapy,Lung Capacity,Study investigating HIV/AIDS treatment using Drug: Metformin.,59,39,28
+43,Diabetes Mellitus,2,Randomized,682,France,Behavioral Therapy,Weight Loss,Study investigating Multiple Sclerosis treatment using Surgery: Bypass.,68,41,5
+44,Multiple Sclerosis,1,Randomized,107,India,Gene Therapy,Blood Sugar,Study investigating Stroke treatment using Radiation Therapy.,7,18,21
+45,Multiple Sclerosis,1,Non-Randomized,160,USA,Drug: Anti-inflammatory,Survival Rate,Study investigating Lung Cancer treatment using Device: Pacemaker.,55,7,22
+46,Asthma,3,Randomized,712,Germany,Device: Pacemaker,Viral Load,Study investigating Kidney Disease treatment using Radiation Therapy.,11,5,34
+47,Arthritis,1,Randomized,849,India,Surgery: Bypass,Blood Sugar,Study investigating Heart Disease treatment using Device: Pacemaker.,25,9,9
+48,Kidney Disease,3,Randomized,303,India,Drug: Chemotherapy,Lung Capacity,Study investigating Lung Cancer treatment using Dietary Supplement.,77,30,35
+49,Obesity,1,Non-Randomized,388,France,Vaccine: mRNA,Infection Rate,Study investigating Diabetes Mellitus treatment using Vaccine: mRNA.,43,18,20
+50,Hypertension,2,Non-Randomized,915,Germany,Drug: Anti-inflammatory,Survival Rate,Study investigating Migraine treatment using Surgery: Bypass.,22,43,3
+51,Multiple Sclerosis,2,Randomized,148,France,Behavioral Therapy,Cognitive Function,Study investigating HIV/AIDS treatment using Drug: Metformin.,8,31,13
+52,COVID-19,3,Non-Randomized,383,Japan,Surgery: Bypass,Cognitive Function,Study investigating Migraine treatment using Drug: Chemotherapy.,93,13,30
+53,Hypertension,3,Randomized,290,USA,Surgery: Bypass,Blood Sugar,Study investigating Migraine treatment using Gene Therapy.,64,19,27
+54,Asthma,2,Non-Randomized,101,Japan,Radiation Therapy,Survival Rate,Study investigating COVID-19 treatment using Drug: Anti-inflammatory.,18,19,25
+55,Migraine,2,Non-Randomized,364,Canada,Drug: Anti-inflammatory,Viral Load,Study investigating Arthritis treatment using Vaccine: mRNA.,13,30,33
+56,Kidney Disease,3,Non-Randomized,723,India,Radiation Therapy,Cognitive Function,Study investigating Alzheimer's Disease treatment using Surgery: Bypass.,94,46,32
+57,Multiple Sclerosis,1,Non-Randomized,323,UK,Surgery: Bypass,Cognitive Function,Study investigating Epilepsy treatment using Device: Pacemaker.,57,17,9
+58,Parkinson's Disease,2,Non-Randomized,721,UK,Gene Therapy,Weight Loss,Study investigating Heart Disease treatment using Drug: Chemotherapy.,6,36,18
+59,Alzheimer's Disease,3,Non-Randomized,125,UK,Drug: Anti-inflammatory,Infection Rate,Study investigating Asthma treatment using Behavioral Therapy.,88,43,28
+60,Diabetes Mellitus,1,Randomized,516,Brazil,Drug: Chemotherapy,Weight Loss,Study investigating Kidney Disease treatment using Radiation Therapy.,96,36,4
+61,Asthma,3,Non-Randomized,536,Canada,Vaccine: mRNA,Mood Score,Study investigating Diabetes Mellitus treatment using Drug: Chemotherapy.,64,8,3
+62,Kidney Disease,1,Randomized,853,Italy,Dietary Supplement,Blood Sugar,Study investigating Multiple Sclerosis treatment using Vaccine: mRNA.,75,34,14
+63,COVID-19,2,Randomized,850,Australia,Gene Therapy,Viral Load,Study investigating Epilepsy treatment using Device: Pacemaker.,48,41,7
+64,Parkinson's Disease,3,Non-Randomized,880,Italy,Dietary Supplement,Mood Score,Study investigating Leukemia treatment using Dietary Supplement.,12,27,34
+65,HIV/AIDS,1,Non-Randomized,814,Italy,Dietary Supplement,Infection Rate,Study investigating HIV/AIDS treatment using Dietary Supplement.,51,43,11
+66,Depression,3,Non-Randomized,270,France,Device: Pacemaker,Survival Rate,Study investigating Multiple Sclerosis treatment using Drug: Chemotherapy.,39,49,21
+67,Arthritis,1,Randomized,422,India,Vaccine: mRNA,Tumor Size,Study investigating Kidney Disease treatment using Surgery: Bypass.,82,19,18
+68,Breast Cancer,3,Non-Randomized,455,USA,Vaccine: mRNA,Lung Capacity,Study investigating Hypertension treatment using Radiation Therapy.,85,47,5
+69,Diabetes Mellitus,3,Non-Randomized,518,USA,Device: Pacemaker,Pain Reduction,Study investigating Hypertension treatment using Surgery: Bypass.,40,33,22
+70,Multiple Sclerosis,3,Randomized,529,UK,Drug: Anti-inflammatory,Lung Capacity,Study investigating Leukemia treatment using Drug: Metformin.,54,40,26
+71,Hypertension,2,Non-Randomized,771,India,Dietary Supplement,Mood Score,Study investigating Epilepsy treatment using Gene Therapy.,8,17,35
+72,Diabetes Mellitus,2,Randomized,115,Canada,Behavioral Therapy,Weight Loss,Study investigating Heart Disease treatment using Drug: Metformin.,6,36,26
+73,HIV/AIDS,2,Non-Randomized,246,Australia,Device: Pacemaker,Survival Rate,Study investigating Hypertension treatment using Drug: Anti-inflammatory.,10,11,13
+74,Kidney Disease,2,Randomized,511,USA,Gene Therapy,Blood Sugar,Study investigating Stroke treatment using Vaccine: mRNA.,58,26,10
+75,Depression,3,Randomized,802,USA,Vaccine: mRNA,Infection Rate,Study investigating Diabetes Mellitus treatment using Radiation Therapy.,8,32,22
+76,Arthritis,1,Randomized,514,Germany,Radiation Therapy,Infection Rate,Study investigating Parkinson's Disease treatment using Drug: Anti-inflammatory.,58,6,27
+77,Stroke,1,Randomized,826,India,Drug: Anti-inflammatory,Tumor Size,Study investigating Prostate Cancer treatment using Drug: Metformin.,97,46,27
+78,Alzheimer's Disease,3,Non-Randomized,436,UK,Drug: Chemotherapy,Cognitive Function,Study investigating Obesity treatment using Drug: Chemotherapy.,67,49,31
+79,Alzheimer's Disease,3,Randomized,845,Brazil,Drug: Metformin,Survival Rate,Study investigating Multiple Sclerosis treatment using Surgery: Bypass.,22,10,20
+80,Stroke,1,Non-Randomized,42,Canada,Dietary Supplement,Tumor Size,Study investigating Kidney Disease treatment using Device: Pacemaker.,94,32,20
+81,Parkinson's Disease,3,Randomized,475,India,Gene Therapy,Pain Reduction,Study investigating Epilepsy treatment using Gene Therapy.,48,32,4
+82,Leukemia,2,Non-Randomized,875,Brazil,Drug: Anti-inflammatory,Survival Rate,Study investigating Obesity treatment using Drug: Chemotherapy.,38,48,18
+83,HIV/AIDS,2,Randomized,798,Australia,Radiation Therapy,Cognitive Function,Study investigating Hypertension treatment using Device: Pacemaker.,78,48,35
+84,Diabetes Mellitus,2,Non-Randomized,216,Australia,Vaccine: mRNA,Survival Rate,Study investigating HIV/AIDS treatment using Device: Pacemaker.,66,24,6
+85,HIV/AIDS,3,Non-Randomized,599,USA,Gene Therapy,Infection Rate,Study investigating Depression treatment using Vaccine: mRNA.,18,34,35
+86,Kidney Disease,2,Randomized,737,Australia,Dietary Supplement,Weight Loss,Study investigating Diabetes Mellitus treatment using Drug: Chemotherapy.,99,15,16
+87,Alzheimer's Disease,1,Non-Randomized,738,UK,Drug: Anti-inflammatory,Cognitive Function,Study investigating Stroke treatment using Dietary Supplement.,52,32,23
+88,Multiple Sclerosis,3,Non-Randomized,465,Italy,Device: Pacemaker,Survival Rate,Study investigating Parkinson's Disease treatment using Drug: Anti-inflammatory.,19,29,22
+89,Alzheimer's Disease,2,Randomized,153,UK,Device: Pacemaker,Tumor Size,Study investigating Multiple Sclerosis treatment using Behavioral Therapy.,76,43,10
+90,Asthma,1,Non-Randomized,313,Brazil,Gene Therapy,Cognitive Function,Study investigating Alzheimer's Disease treatment using Drug: Chemotherapy.,82,37,9
+91,Asthma,2,Randomized,399,India,Drug: Anti-inflammatory,Blood Sugar,Study investigating Multiple Sclerosis treatment using Behavioral Therapy.,91,5,5
+92,HIV/AIDS,1,Randomized,596,France,Behavioral Therapy,Weight Loss,Study investigating COVID-19 treatment using Drug: Metformin.,66,31,19
+93,Prostate Cancer,2,Non-Randomized,520,Australia,Device: Pacemaker,Mood Score,Study investigating Lung Cancer treatment using Drug: Anti-inflammatory.,44,17,35
+94,Leukemia,1,Randomized,440,Australia,Drug: Chemotherapy,Cognitive Function,Study investigating Lung Cancer treatment using Behavioral Therapy.,89,45,14
+95,Arthritis,3,Non-Randomized,117,UK,Drug: Chemotherapy,Viral Load,Study investigating Kidney Disease treatment using Radiation Therapy.,84,7,24
+96,Epilepsy,3,Randomized,824,Italy,Surgery: Bypass,Weight Loss,Study investigating Parkinson's Disease treatment using Drug: Anti-inflammatory.,86,43,24
+97,Prostate Cancer,2,Non-Randomized,612,Brazil,Drug: Metformin,Cognitive Function,Study investigating COVID-19 treatment using Vaccine: mRNA.,57,10,32
+98,Asthma,2,Randomized,190,UK,Behavioral Therapy,Viral Load,Study investigating Depression treatment using Behavioral Therapy.,28,12,10
+99,Diabetes Mellitus,2,Non-Randomized,735,Brazil,Dietary Supplement,Pain Reduction,Study investigating Lung Cancer treatment using Vaccine: mRNA.,30,31,29
+100,Alzheimer's Disease,3,Non-Randomized,749,Australia,Drug: Chemotherapy,Infection Rate,Study investigating HIV/AIDS treatment using Radiation Therapy.,93,13,29
