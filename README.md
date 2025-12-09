@@ -17,7 +17,7 @@ This enables improved trial matching and benchmarking.
 
 
 ## 🧪 Approach & Methodology
-🔍 Understanding the Problem
+### 🔍 Understanding the Problem
 
 Clinical trials struggle with low participant recruitment due to:
 
@@ -31,33 +31,32 @@ Goal: Efficiently predict recruitment success and classify trials for benchmarki
 
 ## ⚙️ Methodology Pipeline
 
-External Classification of Trial Data
+### External Classification of Trial Data
 Categorize trials into 13 Pokémon-types based on features.
 
-Predictive Modeling
+### Predictive Modeling
 ML models predict recruitment success for each type.
 
-Data Preprocessing
+### Data Preprocessing
 Encode categorical data, scale numerical values, apply NLP to textual features.
 
-Training & Validation
+### Training & Validation
 Evaluate using metrics such as RMSE, MAE, Precision@K, Recall@K.
 
-Deployment & Feedback
+### Deployment & Feedback
 Insights help organizers refine strategies and optimize outcomes.
 
 ## 🧠 Model Choice & Setup
-🤖 Models Used
-Model	Reason
+### 🤖 Models Used<br>
 XGBoost	High accuracy with structured trial data
 BERT	Extracts contextual insights from text for trial matching
 K-Means	Clusters trials/users by recruitment behavior
-DBSCAN	Detects outliers in dense data distributions
-🌐 End-to-End ML Pipeline
+DBSCAN	Detects outliers in dense data distributions<br>
+### 🌐 End-to-End ML Pipeline
 Data Collection → External Classification → Preprocessing → Feature Engineering → Training & Evaluation → Deployment
 
 ## 📈 Model Training & Evaluation
-📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 
 Prediction Accuracy
 
@@ -92,13 +91,13 @@ Reinforcement learning-based reward optimization
 Trial recommendation system with incentives
 
 ## 🛠 Tools & Libraries
-Category	Technologies
+Category	Technologies<br>
 Machine Learning	Scikit-learn, XGBoost, LightGBM
 Deep Learning / NLP	TensorFlow / Keras / PyTorch, BERT, HuggingFace
 Visualization & Data Processing	Pandas, NumPy, Matplotlib, Seaborn
 ## 👨‍💻 Author
 
-Aayush Sharma
+Aayush Sharma<br>
 Computer Science & Engineering, Chandigarh University
 Passionate about AI, clinical healthcare innovation & research
 
