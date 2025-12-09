@@ -7,12 +7,14 @@ PokeClinicX transforms this process by forecasting recruitment success and categ
 This enables improved trial matching and benchmarking.
 
 ## 📦 Repository Structure
-File / Folder	Description
-raw_unclassified_dataset.csv	Original dataset before processing
-classified_dataset.csv	Dataset after classification into Pokémon-type categories
-PokeClinicX_notebook.ipynb	Full ML pipeline implementation
-README.md	Project documentation
-images/	Visuals used in reports & slides
+| File / Folder                  | Description                                               |
+| ------------------------------ | --------------------------------------------------------- |
+| `raw_unclassified_dataset.csv` | Original dataset before processing                        |
+| `classified_dataset.csv`       | Dataset after classification into Pokémon-type categories |
+| `PokeClinicX_notebook.ipynb`   | Full ML pipeline implementation                           |
+| `README.md`                    | Project documentation                                     |
+| `images/`                      | Visuals used in reports & slides                          |
+
 
 ## 🧪 Approach & Methodology
 🔍 Understanding the Problem
